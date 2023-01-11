@@ -12,4 +12,4 @@ A random password (that meets specific criteria) automatically generates, so tha
 
 #### Demo :unlock:
 github - https://ashmo91388.github.io/Javascript-Password-Generator/
-![Screenshot](assets/JS Password Gen_Landing.png)
+![Screenshot](assets/images/JS Password Gen_Landing.png)
